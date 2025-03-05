@@ -1,0 +1,1 @@
+const boutonsModale=document.querySelector('.bouton');
